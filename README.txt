@@ -3,9 +3,9 @@
 ################################################
 
 # Installation:
-1) Se placer dans le répertoire "paris_laigle_ProgObjet".
-2) Exécuter la commande "./makefile.sh" (donner les droits en amont si nécessaire -> chmod +x makefile.sh)
+1) Be in the right environnement : "POO_radiography".
+2) Execute the commande "./makefile.sh" (give rights if necessary -> chmod +x makefile.sh)
 
-# Exécution
-1) ./main <chemin d'accès vers le fichier de sauvegarde>
-Exemple: ./main sauvegarde.txt
+# Execution
+1) ./main <path to the sauvegarde file>
+Example : ./main sauvegarde.txt
