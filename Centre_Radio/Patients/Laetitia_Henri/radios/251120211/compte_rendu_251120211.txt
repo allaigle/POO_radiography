@@ -1,0 +1,24 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Henri
+Prenom : Laetitia
+Age : 38
+Sexe : Femme
+Date de naissance : 4/1/1983
+
+*** Radiographie ***
+Numero d'examen unique : 251120211
+Etat : planifiée
+Date : 125/11/2021
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 0
+
+*** Informations ***
+Note : prise de rdv pour echographie
+
+
+
+

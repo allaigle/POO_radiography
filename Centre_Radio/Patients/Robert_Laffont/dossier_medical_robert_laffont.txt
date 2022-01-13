@@ -1,0 +1,22 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Laffont
+Prenom : Robert
+Age : 101
+Sexe : Homme
+Date de naissance : 4/11/1920
+
+*** Antecedents medicaux ***
+Allergies : NA
+Traitements : anti-rejet greffe
+Chirurgies passees : pace-maker
+Antecedents familiaux : Cancer pancreas
+Risques familiaux d'AVC : Oui 
+
+*** Informations supplementaires ***
+Note : pontage coeur 
+Note1 : arthrose genoux
+Note2 : pace-maker

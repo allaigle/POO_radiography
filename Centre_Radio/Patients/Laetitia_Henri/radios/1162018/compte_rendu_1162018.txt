@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Henri
+Prenom : Laetitia
+Age : 38
+Sexe : Femme
+Date de naissance : 4/1/1983
+
+*** Radiographie ***
+Numero d'examen unique : 1162018
+Etat : effectuée
+Date : 11/6/2018
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 2
+
+*** Informations ***
+Note : prises des intestins
+
+
+

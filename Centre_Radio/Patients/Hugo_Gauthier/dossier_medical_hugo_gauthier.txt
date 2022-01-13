@@ -1,0 +1,20 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Gauthier
+Prenom : Hugo
+Age : 25
+Sexe : Homme
+Date de naissance : 21/6/1996
+
+*** Antecedents medicaux ***
+Allergies : gluten + pollen
+Traitements : anti-staminiques si besoin
+Chirurgies passees : NA
+Antecedents familiaux : Leucemies
+Risques familiaux d'AVC : Oui
+
+*** Informations supplementaires ***
+Note : allergies dues aux quantites, risques gonflements 

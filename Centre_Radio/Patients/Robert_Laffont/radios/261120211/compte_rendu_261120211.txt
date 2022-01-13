@@ -1,0 +1,21 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Laffont
+Prenom : Robert
+Age : 101
+Sexe : Homme
+Date de naissance : 4/11/1920
+
+*** Radiographie ***
+Numero d'examen unique : 261120211
+Etat : planifiée
+Date : 26/11/2021
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 0
+
+*** Informations ***
+Note : rdv check pace-maker
+

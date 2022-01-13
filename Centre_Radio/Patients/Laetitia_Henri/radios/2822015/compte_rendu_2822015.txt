@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Henri
+Prenom : Laetitia
+Age : 38
+Sexe : Femme
+Date de naissance : 4/1/1983
+
+*** Radiographie ***
+Numero d'examen unique : 2822015
+Etat : effectuée
+Date : 28/2/2015
+Type de radiographie : IRM
+Nombre de cliches : 3
+
+*** Informations ***
+Note : echographie pre-natale 
+
+
+

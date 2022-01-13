@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Laigle
+Prenom : Iris
+Age : 17
+Sexe : Femme
+Date de naissance : 4/3/2004
+
+*** Radiographie ***
+Numero d'examen unique : 23920202
+Etat : effectuée
+Date : 23/9/2020
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 2
+
+*** Informations ***
+Note : prises tibia 
+
+
+

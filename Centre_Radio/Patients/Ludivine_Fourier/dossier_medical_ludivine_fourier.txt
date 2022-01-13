@@ -1,0 +1,22 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Fourier
+Prenom : Ludivine
+Age : 12
+Sexe : Femme
+Date de naissance : 2/72009
+
+*** Antecedents medicaux ***
+Allergies : lactose
+Traitements : NA
+Chirurgies passees : NA
+Antecedents familiaux : Cancer du sein + Alzheimer 
+Risques familiaux d'AVC : NA
+
+*** Informations supplementaires ***
+Note : Accident en velo, platre femur gauche
+
+

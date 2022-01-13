@@ -1,0 +1,20 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Hamard
+Prenom : Hugo
+Age : 20
+Sexe : Homme
+Date de naissance : 23/11/2001
+
+*** Radiographie ***
+Numero d'examen unique : 28220152
+Etat : effectuée
+Date : 28/2/2015
+Type de radiographie : IRM
+Nombre de cliches : 4
+
+*** Informations ***
+Note : IRM apres chute tete

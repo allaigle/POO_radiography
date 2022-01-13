@@ -1,0 +1,22 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Henri
+Prenom : Laetitia
+Age : 38
+Sexe : Femme
+Date de naissance : 4/1/1983
+
+*** Antecedents medicaux ***
+Allergies : NA
+Traitements : anti-depresseurs
+Chirurgies passees : ablation de l'appendice 
+Antecedents familiaux : Alzheimer
+Risques familiaux d'AVC : Oui 
+
+*** Informations supplementaires ***
+Note : A suivre de près
+
+

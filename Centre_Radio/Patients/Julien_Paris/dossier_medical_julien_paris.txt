@@ -1,0 +1,22 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Paris
+Prenom : Julien
+Age : 22
+Sexe : Homme
+Date de naissance : 29/1/1999
+
+*** Antecedents medicaux ***
+Allergies : pollen
+Traitements : anti-staminiques
+Chirurgies passees : NA
+Antecedents familiaux : NA 
+Risques familiaux d'AVC : NA
+
+*** Informations supplementaires ***
+Note : NA
+
+

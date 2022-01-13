@@ -1,0 +1,22 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Charpentier
+Prenom : Fabrice
+Age : 60
+Sexe : Homme
+Date de naissance : 12/12/1960
+
+*** Radiographie ***
+Numero d'examen unique : 251120213
+Etat : planifiée
+Date : 25/11/2021
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 0
+
+*** Informations ***
+Note : rdv tete check-up
+
+

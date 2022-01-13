@@ -1,0 +1,23 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Hamard
+Prenom : Hugo
+Age : 20
+Sexe : Homme
+Date de naissance : 23/11/2001
+
+*** Antecedents medicaux ***
+Allergies : gluten
+Traitements : NA
+Chirurgies passees : operations fractures tibia droit + double fracture clavicule gauche 
+Antecedents familiaux : NA
+Risques familiaux d'AVC : Oui
+
+*** Informations supplementaires ***
+Note : fracture tibia droit (foot)
+Note1 : double fracture clavicule droite (chute avec alcool)
+
+

@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Paris
+Prenom : Julien
+Age : 22
+Sexe : Homme
+Date de naissance : 29/1/1999
+
+*** Radiographie ***
+Numero d'examen unique : 1552012
+Etat : effectuée
+Date : 15/5/2012
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 4
+
+*** Informations ***
+Note : prises du poignet gauche
+
+
+

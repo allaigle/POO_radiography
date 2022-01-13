@@ -1,0 +1,22 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Fourier
+Prenom : Ludivine
+Age : 12
+Sexe : Femme
+Date de naissance : 2/72009
+
+*** Radiographie ***
+Numero d'examen unique : 261120212
+Etat : planifiée
+Date : 26/11/2021
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 0
+
+*** Informations ***
+Note : rdv pour verification osseuse - femur gauche
+
+

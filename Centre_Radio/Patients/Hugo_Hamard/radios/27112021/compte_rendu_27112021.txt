@@ -1,0 +1,20 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Hamard
+Prenom : Hugo
+Age : 20
+Sexe : Homme
+Date de naissance : 23/11/2001
+
+*** Radiographie ***
+Numero d'examen unique : 27112021
+Etat : planifiée
+Date : 27/11/2021
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 0
+
+*** Informations ***
+Note : rdv check-up

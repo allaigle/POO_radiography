@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Paris
+Prenom : Julien
+Age : 22
+Sexe : Homme
+Date de naissance : 29/1/1999
+
+*** Radiographie ***
+Numero d'examen unique : 3172022
+Etat : planifiée
+Date : 31/7/2022
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 0
+
+*** Informations ***
+Note : prise de rdv effectuee - vicères
+
+
+

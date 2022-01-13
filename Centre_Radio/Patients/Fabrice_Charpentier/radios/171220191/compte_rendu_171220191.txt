@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Charpentier
+Prenom : Fabrice
+Age : 60
+Sexe : Homme
+Date de naissance : 12/12/1960
+
+*** Radiographie ***
+Numero d'examen unique : 171220191
+Etat : effectuée
+Date : 17/12/2019
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 3
+
+*** Informations ***
+Note : tete (meningite ou migraine ?) -> meningite aigue - Traitement triptan
+
+
+

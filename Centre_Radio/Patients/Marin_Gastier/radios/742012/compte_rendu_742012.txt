@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Gastier
+Prenom : Marin 
+Age :21
+Sexe : Homme
+Date de naissance : 17/7/2000
+
+*** Radiographie ***
+Numero d'examen unique : 742012
+Etat : effectuée
+Date : 7/4/2012
+Type de radiographie : IRM
+Nombre de cliches : 3
+
+*** Informations ***
+Note : poitrine/poumons
+
+
+

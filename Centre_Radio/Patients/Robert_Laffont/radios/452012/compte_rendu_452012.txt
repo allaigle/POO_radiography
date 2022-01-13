@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Laffont
+Prenom : Robert
+Age : 101
+Sexe : Homme
+Date de naissance : 4/11/1920
+
+*** Radiographie ***
+Numero d'examen unique : 452012
+Etat : effectuée
+Date : 4/5/2012
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 2
+
+*** Informations ***
+Note : genoux
+
+
+

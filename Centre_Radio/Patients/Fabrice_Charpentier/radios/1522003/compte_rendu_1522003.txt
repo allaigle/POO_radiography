@@ -1,0 +1,22 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Charpentier
+Prenom : Fabrice
+Age : 60
+Sexe : Homme
+Date de naissance : 12/12/1960
+
+*** Radiographie ***
+Numero d'examen unique : 1522003
+Etat : effectuée
+Date : 15/2/2003
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 4
+
+*** Informations ***
+Note : cage thoracique (4 prises) 
+
+

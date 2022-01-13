@@ -1,0 +1,21 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Laffont
+Prenom : Robert
+Age : 101
+Sexe : Homme
+Date de naissance : 4/11/1920
+
+*** Radiographie ***
+Numero d'examen unique : 28220151
+Etat : effectuée
+Date : 28/2/2015
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 5
+
+*** Informations ***
+Note : poitrine verification pace-maker
+

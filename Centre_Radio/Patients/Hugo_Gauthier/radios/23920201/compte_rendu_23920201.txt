@@ -1,0 +1,20 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Gauthier
+Prenom : Hugo
+Age : 25
+Sexe : Homme
+Date de naissance : 21/6/1996
+
+*** Radiographie ***
+Numero d'examen unique : 23920201
+Etat : effectuée
+Date : 23/9/2020
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 5
+
+*** Informations ***
+Note : echographie intestins + appendice

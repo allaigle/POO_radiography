@@ -1,0 +1,24 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Henri
+Prenom : Laetitia
+Age : 38
+Sexe : Femme
+Date de naissance : 4/1/1983
+
+*** Radiographie ***
+Numero d'examen unique : 17122019
+Etat : effectuée
+Date : 17/12/2019
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 7
+
+*** Informations ***
+Note : prise du bassin et colonne vertebrale apres accident de la route - vertebres C4 et C5 felees 
+
+
+
+

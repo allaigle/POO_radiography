@@ -1,0 +1,20 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Gauthier
+Prenom : Hugo
+Age : 25
+Sexe : Homme
+Date de naissance : 21/6/1996
+
+*** Radiographie ***
+Numero d'examen unique : 261120213
+Etat : planifiée
+Date : 26/11/2021
+Type de radiographie : IRM
+Nombre de cliches : 0
+
+*** Informations ***
+Note : prise de rdv 

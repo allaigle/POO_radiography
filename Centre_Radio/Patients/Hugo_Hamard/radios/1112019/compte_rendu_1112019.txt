@@ -1,0 +1,20 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Hamard
+Prenom : Hugo
+Age : 20
+Sexe : Homme
+Date de naissance : 23/11/2001
+
+*** Radiographie ***
+Numero d'examen unique : 1112019
+Etat : effectuée
+Date : 11/1/2019
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 4
+
+*** Informations ***
+Note : clavicule droite

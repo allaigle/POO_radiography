@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Hubert
+Prenom : Madeleine
+Age : 74
+Sexe : Femme
+Date de naissance : 9/3/1947 
+
+*** Radiographie ***
+Numero d'examen unique : 26112021
+Etat : planifiée
+Date : 26/11/2021
+Type de radiographie : IRM
+Nombre de cliches : 0
+
+*** Informations ***
+Note : NA
+
+
+

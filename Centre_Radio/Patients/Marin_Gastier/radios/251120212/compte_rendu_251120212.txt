@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Gastier
+Prenom : Marin 
+Age :21
+Sexe : Homme
+Date de naissance : 17/7/2000
+
+*** Radiographie ***
+Numero d'examen unique : 251120212
+Etat : planifiée
+Date : 25/11/2021
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 0
+
+*** Informations ***
+Note : rdv pour cheville gauche
+
+
+

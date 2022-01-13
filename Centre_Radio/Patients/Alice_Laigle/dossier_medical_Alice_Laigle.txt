@@ -1,0 +1,20 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Laigle
+Prenom : Alice
+Age : 24
+Sexe : Femme
+Date de naissance : 29/5/1997
+
+*** Antecedents medicaux ***
+Allergies : NA
+Traitements : triptan si migraine avec aura
+Chirurgies passees : NA
+Antecedents familiaux : NA 
+Risques familiaux d'AVC : NA
+
+*** Informations supplementaires ***
+Note : NA

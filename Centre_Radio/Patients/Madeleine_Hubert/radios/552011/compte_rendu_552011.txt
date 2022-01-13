@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Hubert
+Prenom : Madeleine
+Age : 74
+Sexe : Femme
+Date de naissance : 9/3/1947 
+
+*** Radiographie ***
+Numero d'examen unique : 552011
+Etat : effectuée
+Date : 5/5/2011
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 5
+
+*** Informations ***
+Note : col du femur + hanche 
+
+
+

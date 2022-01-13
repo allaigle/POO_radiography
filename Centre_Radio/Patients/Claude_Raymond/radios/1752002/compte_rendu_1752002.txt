@@ -1,0 +1,22 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Raymond
+Prenom : Claude
+Age : 38
+Sexe : Homme
+Date de naissance : 4/1/1983
+
+*** Radiographie ***
+Numero d'examen unique :1752002
+Etat : effectuée
+Date : 17/5/2002
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 6 
+
+*** Informations ***
+Note : suite accident, verification squelette 
+
+

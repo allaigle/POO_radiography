@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Laffont
+Prenom : Robert
+Age : 101
+Sexe : Homme
+Date de naissance : 4/11/1920
+
+*** Radiographie ***
+Numero d'examen unique : 1162017
+Etat : effectuée
+Date : 11/6/2017
+Type de radiographie : IRM
+Nombre de cliches : 4
+
+*** Informations ***
+Note : cerveau migraines ophtalmiques
+
+
+

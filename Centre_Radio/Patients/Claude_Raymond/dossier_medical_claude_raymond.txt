@@ -1,0 +1,21 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Raymond
+Prenom : Claude
+Age : 38
+Sexe : Homme
+Date de naissance : 4/1/1983
+
+*** Antecedents medicaux ***
+Allergies : lactose
+Traitements : NA
+Chirurgies passees : ablation appendice   
+Antecedents familiaux : hemophilie + cancer prostate
+Risques familiaux d'AVC : NA
+
+*** Informations supplementaires ***
+Note : intoxication alimentaire
+

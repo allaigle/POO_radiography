@@ -1,0 +1,20 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Gauthier
+Prenom : Hugo
+Age : 25
+Sexe : Homme
+Date de naissance : 21/6/1996
+
+*** Radiographie ***
+Numero d'examen unique : 15520121
+Etat : effectuée
+Date : 15/5/2012
+Type de radiographie : Radiographie conventionelle à rayon X
+Nombre de cliches : 1
+
+*** Informations ***
+Note : avant-bras droit (chute)

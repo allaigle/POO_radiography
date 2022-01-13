@@ -1,0 +1,22 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Gastier
+Prenom : Marin 
+Age :21
+Sexe : Homme
+Date de naissance : 17/7/2000
+
+*** Antecedents medicaux ***
+Allergies : pollen
+Traitements : NA
+Chirurgies passees : plaque avant-bras après fracture (chute) 
+Antecedents familiaux : Parkinson + Alzheimer
+Risques familiaux d'AVC : NA
+
+*** Informations supplementaires ***
+Note : NA
+
+

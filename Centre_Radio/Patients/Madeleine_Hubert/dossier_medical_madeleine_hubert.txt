@@ -1,0 +1,22 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Hubert
+Prenom : Madeleine
+Age : 74
+Sexe : Femme
+Date de naissance : 9/3/1947
+
+*** Antecedents medicaux ***
+Allergies : NA
+Traitements : stabilisateur frequence cardiaque
+Chirurgies passees : pile coeur 
+Antecedents familiaux : Cancer du sein
+Risques familiaux d'AVC : Oui
+
+*** Informations supplementaires ***
+Note : Personne fragile (osseux)
+
+

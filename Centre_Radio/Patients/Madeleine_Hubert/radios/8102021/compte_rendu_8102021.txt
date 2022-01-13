@@ -1,0 +1,23 @@
+****************************
+*** Compte Rendu medical ***
+**************************** 
+
+*** Patient ***
+Nom : Hubert
+Prenom : Madeleine
+Age : 74
+Sexe : Femme
+Date de naissance : 9/3/1947 
+
+*** Radiographie ***
+Numero d'examen unique : 8102021
+Etat : efefctuée
+Date : 8/10/2021
+Type de radiographie : Echographie à ultrasons
+Nombre de cliches : 8
+
+*** Informations ***
+Note : echographie apres chute + crampes 
+ 
+
+

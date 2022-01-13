@@ -1,0 +1,21 @@
+***********************
+*** Dossier medical ***
+*********************** 
+
+*** Patient ***
+Nom : Charpentier
+Prenom : Fabrice
+Age : 60
+Sexe : Homme
+Date de naissance : 12/12/1960
+
+*** Antecedents medicaux ***
+Allergies : gluten
+Traitements : triptan si migraine avec aura
+Chirurgies passees : NA
+Antecedents familiaux : Parkinson
+Risques familiaux d'AVC : Oui 
+
+*** Informations supplementaires ***
+Note : NA
+
