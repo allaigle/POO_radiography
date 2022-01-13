@@ -3,6 +3,8 @@ C++ project with Julien Paris (Master 2 Bioinformatics for Biologists - Universi
 
 Goal : create an interface allowing to manage files and to track what is happening in a radiology center (Users are practicians) using POO in Cpp. 
 
+Problem that you could face if you're trying it : most parts are in French... 
+
 Important note : We created a fake dataset to see if our codes were working or not, where names could be whatever the names you want. 
                  And so, all information contained in the Centre_Radio folder are false. 
                  
@@ -13,5 +15,5 @@ Important note : We created a fake dataset to see if our codes were working or n
 2) Execute the commande "./makefile.sh" (give rights if necessary -> chmod +x makefile.sh)
 
 # Execution
-1) ./main <path to the sauvegarde file>
-Example : ./main sauvegarde.txt
+1) ./main <path to the saving file>
+  Example : ./main sauvegarde.txt
